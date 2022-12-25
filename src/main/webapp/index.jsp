@@ -6,11 +6,9 @@
 <h1>Congratulations!</h1>
 <img src="boxfuse.png">
 
-<h2>Hello Devops! Hello World!!!</h2>
-    <h2> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 02.11.2022 19:35!!!</h2>
-    <h3> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 04.12.2022 21:20!!!</h3>
-    <h2> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 06.12.2022 14:13!!! !!</h2>
-    <h1> WebHook !!!!!! 2022 !!!!! from Belgrade_ !!!!! 25.12.2022 15:00!!! !!</h1>
+    <h2>Hello Devops! Hello World!!!</h2>
+    <h2> WebHook !!!!!! 2022 !!! Hello from Belgrade_ !!! 15.11.2022 14:13!!! !!</h2>
+    <h1> WebHook !!!!!! 2022 !!!!! Hello from Belgrade !!!!! 25.12.2022 15:00!!! !!</h1>
 
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
 <h2 style="margin-top: 80px">Next steps</h2>
