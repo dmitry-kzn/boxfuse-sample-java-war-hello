@@ -9,15 +9,8 @@
 <h2>Hello Devops! Hello World!!!</h2>
     <h2> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 02.11.2022 19:35!!!</h2>
     <h3> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 04.12.2022 21:20!!!</h3>
-    <h1> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 06.12.2022 14:13!!! !!</h1>
-
-<p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
-</strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
-</strong>.</p>
-
-<p>It is based on the Image <strong><%= System.getenv("BOXFUSE_IMAGE_COORDINATES")%>
-</strong> generated from <strong><%= System.getenv("BOXFUSE_PAYLOAD_NAME")%>
-</strong></p>
+    <h2> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 06.12.2022 14:13!!! !!</h2>
+    <h1> WebHook !!!!!! 2022 !!! from Belgrade_ !!! 20.12.2022 15:00!!! !!</h1>
 
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
 <h2 style="margin-top: 80px">Next steps</h2>
