@@ -7,7 +7,7 @@
 <img src="boxfuse.png">
 
     <h2>Hello Devops! Hello World!!!</h2>
-    <h1> WebHook !!!!!! 2022 !!!!! Hello from Belgrade !!!!! 25.12.2022 15:00!!! !!</h1>
+    <h1> WebHook !!!!!! 2022 !!!!! Hello from Belgrade !!!!! 26.12.2022 10:00!!! !!</h1>
 
 <% if("virtualbox".equals(System.getenv("BOXFUSE_PLATFORM_ID"))) { %>
 <h2 style="margin-top: 80px">Next steps</h2>
